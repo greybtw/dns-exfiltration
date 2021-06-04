@@ -1,0 +1,6 @@
+C:\Users\trunl\source\repos\DNSExfiltration\DNSExfiltration\bin\Debug\DNSExfiltration.exe
+C:\Users\trunl\source\repos\DNSExfiltration\DNSExfiltration\bin\Debug\DNSExfiltration.pdb
+C:\Users\trunl\source\repos\DNSExfiltration\DNSExfiltration\obj\Debug\DNSExfiltration.csprojAssemblyReference.cache
+C:\Users\trunl\source\repos\DNSExfiltration\DNSExfiltration\obj\Debug\DNSExfiltration.csproj.CoreCompileInputs.cache
+C:\Users\trunl\source\repos\DNSExfiltration\DNSExfiltration\obj\Debug\DNSExfiltration.exe
+C:\Users\trunl\source\repos\DNSExfiltration\DNSExfiltration\obj\Debug\DNSExfiltration.pdb
