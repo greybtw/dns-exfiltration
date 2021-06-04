@@ -82,6 +82,8 @@ nameserver 192.168.110.153
 search example.com
 ```
 ## Validation and run bind
+### Validation
+> You need to check it out on google or something :D do it for yourself
 ### Run bind
 ```
 # If firewall is turn on, you must allow bind9
